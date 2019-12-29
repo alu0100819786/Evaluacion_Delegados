@@ -15,6 +15,8 @@ Modificar la escena desarrollada para la práctica para que se ajuste a los sigu
 
 --------------------------------------------
 
+Gif de su funcionamiento: https://gyazo.com/5b6694544f9f39d97bb7467963f43bf2
+
 Para llevar a cabo la realización de esta practica vamos a usar una esfera como personaje controlable que se moverá con movimiento físico y rigidBody como de costumbre:
 
         if (Input.GetKey(KeyCode.W))
