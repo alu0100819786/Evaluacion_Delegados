@@ -215,7 +215,7 @@ Y luego una Vez activos los botones, resolveremos su evento al pulsarlos.
         }
     }
     
-  En el caso de los Cubos, variamos su color aleatoriamente y incrementamos su tamaño dependiendo del score que tengamos, movemos la esfera en diagonal y incrementamos nuestro poder:
+  En el caso de los Cubos, variamos su color aleatoriamente y  movemos la esfera en diagonal (a mayor distancia dependiendo del poder) e incrementamos nuestro poder:
   
       void TaskOnCube()
     {
