@@ -2,7 +2,7 @@
 
  -Autor: Gabriel Melián Hernández.
 
-Descripción de la Práctica: 
+Descripción de la Práctica:  
 
 Modificar la escena desarrollada para la práctica para que se ajuste a los siguientes requisitos:
 
