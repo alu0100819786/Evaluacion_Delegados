@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/alu0100819786/Evaluacion_Delegados/badge.svg?branch=master)](https://coveralls.io/github/alu0100819786/Evaluacion_Delegados?branch=master)
+
 # Evaluación Delegados.
 
  -Autor: Gabriel Melián Hernández.
